@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.inngage:inngage-lib:3.0.1-stable@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6bf7360f1a47400512f3b3d1e48fede0/jetified-inngage-lib-3.0.1-stable/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6bf7360f1a47400512f3b3d1e48fede0/jetified-inngage-lib-3.0.1-stable/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6bf7360f1a47400512f3b3d1e48fede0/jetified-inngage-lib-3.0.1-stable/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.inngage/inngage-lib/3.0.1-stable/f16067684d58806345916e8c99efc38279ea9922/inngage-lib-3.0.1-stable-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.inngage/inngage-lib/3.0.1-stable/474b98603b6e597a1d1c65672a6a645b80a3ac9f/inngage-lib-3.0.1-stable-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
